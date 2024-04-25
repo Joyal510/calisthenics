@@ -11,7 +11,8 @@ function Foundation() {
   return (
     <div>
       <div className="row justify-content-center my-5 fs-2 mx-2">
-        Let's start with 5 foundation exercises
+        {`Let's start with 5 foundation exercises`}
+        
       </div>
       <div className="row d-flex flex-column justify-content-center gap-2">
         <div className="col col-sm-12 col-md-12 col-lg">

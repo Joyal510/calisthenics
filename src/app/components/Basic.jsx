@@ -24,9 +24,10 @@ function Basic() {
               <h5 class="card-title">Assess Your Current Fitness Level</h5>
 
               <p class="card-text">
-                Before starting any new exercise program, it's essential to
+                {`Before starting any new exercise program, it's essential to
                 assess your current fitness level. This will help you set
-                realistic goals and choose appropriate exercises
+                realistic goals and choose appropriate exercises`}
+                
               </p>
             </div>
           </div>
@@ -38,10 +39,11 @@ function Basic() {
               <h5 class="card-title">Set Clear Goals</h5>
 
               <p class="card-text">
-                Determine what you want to achieve with calisthenics. Whether
+                {`Determine what you want to achieve with calisthenics. Whether
                 it's building muscle, losing weight, increasing flexibility, or
                 improving overall fitness, having clear goals will help you stay
-                motivated.
+                motivated.`}
+               
               </p>
             </div>
           </div>

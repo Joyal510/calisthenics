@@ -29,8 +29,9 @@ export default function Home() {
       <Basic />
       <Partition />
       <div className="row justify-content-center my-4 fs-7 fw-light fst-italic mx-2">
-        "Every workout is a step closer to your goals. Embrace the challenge,
-        push through the pain, and celebrate your progress."
+        {`"Every workout is a step closer to your goals. Embrace the challenge,
+        push through the pain, and celebrate your progress."`}
+        
       </div>
       <Partition />
       <Foundation />
@@ -38,7 +39,8 @@ export default function Home() {
       <Questions />
       <Partition />
       <div className="row justify-content-center my-4 fs-7 fw-light fst-italic mx-2">
-        " Start today and discover the power of your own body."
+        {`" Start today and discover the power of your own body."`}
+        
       </div>
     </div>
   );

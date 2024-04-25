@@ -24,8 +24,9 @@ function Questions() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Calisthenics primarily relies on using your body weight for
-            resistance, so you don't need much equipment to get started.
+            {`Calisthenics primarily relies on using your body weight for
+            resistance, so you don't need much equipment to get started.`}
+            
             <br />
             <b>-</b> Pull-up bar
             <br />
@@ -49,8 +50,9 @@ function Questions() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            As a beginner, it's recommended to start with <b>2-3</b>  sessions per week
-            to allow your body to adapt and recover.
+            {`As a beginner, it's recommended to start with 2-3 sessions per week
+            to allow your body to adapt and recover.`}
+            
           </Typography>
         </AccordionDetails>
       </Accordion>
@@ -65,11 +67,12 @@ function Questions() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Weighted calisthenics can begin when you've mastered basic
+            {`Weighted calisthenics can begin when you've mastered basic
             bodyweight exercises, feel comfortable with high repetitions,
             maintain a strong core and stable joints, and are ready for added
             challenge. Start with light weights, progress gradually, and listen
-            to your body.
+            to your body.`}
+            
           </Typography>
         </AccordionDetails>
       </Accordion>
