@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import "./page.module.css";
 import "bootstrap/dist/css/bootstrap.css";
 import './globals.css'
