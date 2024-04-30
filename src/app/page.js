@@ -1,7 +1,7 @@
 
 // import "./page.module.css";
 // import "bootstrap/dist/css/bootstrap.css";
-// import './globals.css'
+import '../../src/globals.css'
 
 import React from "react";
 import Basic from "./components/Basic";
