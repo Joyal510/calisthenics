@@ -3,6 +3,7 @@
 // import "bootstrap/dist/css/bootstrap.css";
 // import './globals.css'
 
+import React from "react";
 import Basic from "./components/Basic";
 import Foundation from "./components/Foundation";
 import Partition from "./components/Partition";
