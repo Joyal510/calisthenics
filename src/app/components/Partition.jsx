@@ -1,7 +1,7 @@
 import React from "react";
 import "./../globals.css";
 
-function Partition() {
+const Partition = () => {
   return (
     <div>
       <div className="row justify-content-center partition my-5"></div>

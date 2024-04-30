@@ -7,7 +7,7 @@ import squats from "./../images/squats.jpg";
 import plank from "./../images/plank.jpg";
 import "../globals.css";
 
-function Foundation() {
+const Foundation = () => {
   return (
     <div>
       <div className="row justify-content-center my-5 fs-2 mx-2">

@@ -9,7 +9,7 @@ import Typography from "@mui/material/Typography";
 import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 
 
-function Questions() {
+const Questions = () => {
   return (
     <div>
       <Accordion>

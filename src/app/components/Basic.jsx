@@ -1,6 +1,6 @@
 import React from "react";
 
-function Basic() {
+const Basic = () => {
   return (
     <div>
       <div className="row gap-2">

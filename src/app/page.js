@@ -1,7 +1,6 @@
-
 // import "./page.module.css";
 // import "bootstrap/dist/css/bootstrap.css";
-import '../../src/globals.css'
+import "./globals.css";
 
 import React from "react";
 import Basic from "./components/Basic";
@@ -15,7 +14,6 @@ export default function Home() {
       <div id="title-text" className="row  fs-2 fw-bold mx-2">
         <div className="col d-flex justify-content-center col-xs-2 wantTo">
           {"Want to start Calisthenics? "}
-          
         </div>
       </div>
       <div
@@ -32,7 +30,6 @@ export default function Home() {
       <div className="row justify-content-center my-4 fs-7 fw-light fst-italic mx-2">
         {`"Every workout is a step closer to your goals. Embrace the challenge,
         push through the pain, and celebrate your progress."`}
-        
       </div>
       <Partition />
       <Foundation />
@@ -41,7 +38,6 @@ export default function Home() {
       <Partition />
       <div className="row justify-content-center my-4 fs-7 fw-light fst-italic mx-2">
         {`" Start today and discover the power of your own body."`}
-        
       </div>
     </div>
   );
