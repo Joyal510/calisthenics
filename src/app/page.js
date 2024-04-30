@@ -1,5 +1,7 @@
 // import "./page.module.css";
 // import "bootstrap/dist/css/bootstrap.css";
+"use client"
+
 import "./globals.css";
 
 import React from "react";
