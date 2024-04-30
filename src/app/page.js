@@ -1,7 +1,7 @@
 
-import "./page.module.css";
-import "bootstrap/dist/css/bootstrap.css";
-import './globals.css'
+// import "./page.module.css";
+// import "bootstrap/dist/css/bootstrap.css";
+// import './globals.css'
 
 import Basic from "./components/Basic";
 import Foundation from "./components/Foundation";
