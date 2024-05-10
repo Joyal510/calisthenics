@@ -7,8 +7,11 @@
 }
 
 .special {
+  object-fit: contain;
     opacity: 0.3;
 }
+
+
 
 @media only screen and (max-width: 392px) {
   .wantTo {
